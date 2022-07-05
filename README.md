@@ -1,7 +1,6 @@
-# qb-inventory
-QB Inventory design edited QBCore
 
 # qb-inventory
+QB Inventory design edited QBCore
 
 # License
 
