@@ -29,7 +29,7 @@ files {
 	'html/attachment_images/*.png',
 	'html/*.ttf'
 }
- 
+
 dependency 'qb-weapons'
 
 lua54 'yes'
